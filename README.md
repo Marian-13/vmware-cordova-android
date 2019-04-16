@@ -43,3 +43,11 @@
 
 13.  
   ![VMware image 9](https://raw.githubusercontent.com/Marian-13/vmware-cordova-android/master/images/vmware_09.png)
+
+
+**Ubuntu**
+
+1. [https://www.ubuntu.com/#download](https://www.ubuntu.com/#download)
+
+2.  
+  ![Ubuntu image 1](https://raw.githubusercontent.com/Marian-13/vmware-cordova-android/master/images/ubuntu_01.png)
