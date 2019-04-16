@@ -15,10 +15,10 @@
 
 5.  
   ```
-  $ chmod +x ~/Downloads/VMware-Player*
+  $ chmod +x ~/Downloads/VMware-Player-15.0.4-12990004.x86_64.bundle
   ```
 
 6.  
   ```
-  $ sudo ~/Downloads/VMware-Player*
+  $ sudo ~/Downloads/VMware-Player-15.0.4-12990004.x86_64.bundle
   ```
