@@ -51,3 +51,32 @@
 
 2.  
   ![Ubuntu image 1](https://raw.githubusercontent.com/Marian-13/vmware-cordova-android/master/images/ubuntu_01.png)
+
+**Virtual Machine**
+
+1.  
+  ![Virtual Machine 1](https://raw.githubusercontent.com/Marian-13/vmware-cordova-android/master/images/virtual machine_01.png)
+
+2.  
+  ![Virtual Machine 2](https://raw.githubusercontent.com/Marian-13/vmware-cordova-android/master/images/virtual machine_02.png)
+
+3.  
+  ![Virtual Machine 3](https://raw.githubusercontent.com/Marian-13/vmware-cordova-android/master/images/virtual machine_03.png)
+
+4.  
+  ![Virtual Machine 4](https://raw.githubusercontent.com/Marian-13/vmware-cordova-android/master/images/virtual machine_04.png)
+
+5.  
+  ![Virtual Machine 5](https://raw.githubusercontent.com/Marian-13/vmware-cordova-android/master/images/virtual machine_05.png)
+
+6.  
+  ![Virtual Machine 6](https://raw.githubusercontent.com/Marian-13/vmware-cordova-android/master/images/virtual machine_06.png)
+
+7.  
+  ![Virtual Machine 7](https://raw.githubusercontent.com/Marian-13/vmware-cordova-android/master/images/virtual machine_07.png)
+
+8.  
+  ![Virtual Machine 8](https://raw.githubusercontent.com/Marian-13/vmware-cordova-android/master/images/virtual machine_08.png)
+
+9.  
+  ![Virtual Machine 9](https://raw.githubusercontent.com/Marian-13/vmware-cordova-android/master/images/virtual machine_09.png)
